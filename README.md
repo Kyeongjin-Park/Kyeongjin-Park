@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@today3233"/></a>&nbsp
+</p>
 <!--
 **Kyeongjin-Park/Kyeongjin-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
