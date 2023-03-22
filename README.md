@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Kyeongjin's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=Kyeongjin's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 <br>
 
 
