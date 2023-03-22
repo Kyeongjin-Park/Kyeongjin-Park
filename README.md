@@ -40,6 +40,15 @@
 <p align="center">
   <a href="https://velog.io/@today3233"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@today3233"/></a>&nbsp
 </p>
+
+<h3 align="center">🌱 Interests 🌱</h3>
+<p align="center">
+  - Platform(Web, App)&nbsp
+  <br>
+  - Machine Learning&nbsp
+  <br>
+  - Image Processing&nbsp
+</p>
 <!--
 **Kyeongjin-Park/Kyeongjin-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
